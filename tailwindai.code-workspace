@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "tailwindai",
+			"path": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\tann\\tailwindai"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwindai"
+	}
+}
